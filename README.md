@@ -1,4 +1,4 @@
-# Avaj_launcher
+# Avaj-launcher
 
 Implementing a Java program according to a given class diagram written in UML
 
@@ -10,7 +10,7 @@ Simple aircraft logistics simulation program, based on the provided UML class di
 
 ![](documentation/avaj_uml.jpg)
 
-Spec PDF: [avaj-launcher.en.pdf](https://github.com/ziadhorat/Avaj-launcher/blob/master/documentation/avaj-launcher.en.pdf)
+Spec PDF: [avaj-launcher.en.pdf](https://github.com/ziadhorat/Avaj_launcher/blob/master/documentation/avaj-launcher.en.pdf)
 
 ### Things I've learnt building Avaj-Launcher
 
