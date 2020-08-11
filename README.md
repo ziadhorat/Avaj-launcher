@@ -16,3 +16,21 @@ Simple aircraft logistics simulation program, based on the provided UML class di
 - Understanding and implementing UML class diagrams
 - Implementing OOP designs
 - And more
+
+## Usage
+
+Compile and run with the script **[src/run.sh](https://github.com/ziadhorat/Avaj-launcher/blob/master/src/run.sh)**. The script takes the path to the scenario file as a parameter, if not specified it will default to [src/scenario.txt](https://github.com/ziadhorat/Avaj-launcher/blob/master/src/scenario.txt).
+
+[scenario.txt](https://github.com/ziadhorat/Avaj-launcher/blob/master/src/scenario.txt) explained:
+
+```
+25
+Baloon B1 2 3 20
+JetPlane J1 23 44 32
+```
+
+```
+Number of simulations to run
+AircraftType CallSign Longitude Latitude Height
+AircraftType CallSign Longitude Latitude Height
+```
