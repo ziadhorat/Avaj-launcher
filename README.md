@@ -6,7 +6,7 @@ Implementing a Java program according to a given class diagram written in UML
 
 ### What is [Avaj-launcher](https://github.com/ziadhorat/Avaj-launcher/blob/master/documentation/avaj-launcher.en.pdf)
 
-Simple aircraft logistics simulation program, based on the provided UML class diagram. The program takes a scenario file(Input). It lists aircraft and their started coordinates. The first line is the number of simulation runs. Each run, the Weather Tower provides updated weather conditions for every aircraft and its coordinates. And aircraft react with changing coordinates by specified step and logging a message to the simulation file(Output), the message corresponds to the weather. If the height of an aircraft reaches 0, it lands and unregisters from the Tower, thus stopping its participation.
+Simple aircraft logistics simulation program, based on the provided UML class diagram. The program takes a [Scenario File](https://github.com/ziadhorat/Avaj-launcher/blob/master/src/scenario.txt). It lists aircraft and their started coordinates. The first line is the number of simulation runs. Each run, the Weather Tower provides updated weather conditions for every aircraft and its coordinates. And aircraft react with changing coordinates by specified step and logging a message to the [Simulation File](https://github.com/ziadhorat/Avaj-launcher/blob/master/src/simulation.txt), the message corresponds to the weather. If the height of an aircraft reaches 0, it lands and unregisters from the Tower, thus stopping its participation.
 
 ![](documentation/avaj_uml.jpg)
 
