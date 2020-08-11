@@ -79,7 +79,7 @@ public class Simulator {
 		}
 
 		while (simulator.tower.getSimsCount() < simulator.tower.getTotalSims()) {
-			Logger.logLine("\t== Simulation #" + (simulator.tower.getSimsCount() + 1) + " ==");
+			Logger.logLine("Simulation #" + (simulator.tower.getSimsCount() + 1) + "");
 			simulator.tower.changeWeather();
 			simulator.tower.countSimulation();
 		}
