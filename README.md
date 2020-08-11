@@ -24,13 +24,16 @@ Compile and run with the script **[src/run.sh](https://github.com/ziadhorat/Avaj
 [scenario.txt](https://github.com/ziadhorat/Avaj-launcher/blob/master/src/scenario.txt) explained:
 
 ```
-25
-Baloon B1 2 3 20
-JetPlane J1 23 44 32
+25                      | Number of simulations to run
+Baloon B1 2 3 20        | AircraftType CallSign Longitude Latitude Height
+JetPlane J1 23 44 32    | AircraftType CallSign Longitude Latitude Height
 ```
 
+If the program has run successfully, you will receive the following output:
+
 ```
-Number of simulations to run
-AircraftType CallSign Longitude Latitude Height
-AircraftType CallSign Longitude Latitude Height
+We have run X simulations.
+Results are logged to simulation.txt file.
 ```
+
+The results will then be accessible in [src/simulation.txt](https://github.com/ziadhorat/Avaj-launcher/blob/master/src/simulation.txt)
