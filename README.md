@@ -2,7 +2,7 @@
 
 Implementing a Java program according to a given class diagram written in [UML](https://github.com/ziadhorat/Avaj-launcher/blob/master/documentation/avaj_uml.jpg)
 
-https://github.com/ziadhorat/Avaj-launcher/workflows/Test/badge.svg
+![](https://github.com/ziadhorat/Avaj-launcher/workflows/Test/badge.svg)
 
 ## About
 
