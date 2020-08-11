@@ -40,4 +40,4 @@ We have run X simulations.
 Results are logged to simulation.txt file.
 ```
 
-The results will then be accessible in [source/simulation.txt](https://github.com/ziadhorat/Avaj-launcher/blob/master/source/simulation.txt)
+The results will then be accessible in [source/simulation.txt](https://github.com/ziadhorat/Avaj-launcher/blob/master/source/simulation.txt).
