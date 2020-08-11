@@ -15,7 +15,9 @@ Simple aircraft logistics simulation program, based on the provided UML class di
 - The basics of Java, and Java development
 - Understanding and implementing UML class diagrams
 - Implementing OOP designs
-- And more
+- And a whole lot more
+
+The [Marking Sheet](https://github.com/ziadhorat/Avaj-launcher/blob/master/documentation/avaj-launcher.markingsheet.pdf) we are marked against.
 
 ## Usage
 
