@@ -4,6 +4,8 @@ Implementing a Java program according to a given class diagram written in [UML](
 
 ![](https://github.com/ziadhorat/Avaj-launcher/workflows/Test/badge.svg)
 
+The [Marking Sheet](https://github.com/ziadhorat/Avaj-launcher/blob/master/documentation/avaj-launcher.markingsheet.pdf) we are marked against.
+
 ## About
 
 ### What is [Avaj-launcher](https://github.com/ziadhorat/Avaj-launcher/blob/master/documentation/avaj-launcher.en.pdf)
@@ -18,8 +20,6 @@ Simple aircraft logistics simulation program, based on the provided UML class di
 - Understanding and implementing UML class diagrams (Oberserver[Publisher-Subscriber]/Singleton/FactoryMethod)
 - Implementing OOP designs
 - And a whole lot more
-
-The [Marking Sheet](https://github.com/ziadhorat/Avaj-launcher/blob/master/documentation/avaj-launcher.markingsheet.pdf) we are marked against.
 
 ## Usage
 
