@@ -10,14 +10,12 @@ The [Marking Sheet](https://github.com/ziadhorat/Avaj-launcher/blob/master/docum
 
 ### What is [Avaj-launcher](https://github.com/ziadhorat/Avaj-launcher/blob/master/documentation/avaj-launcher.en.pdf)
 
-Simple aircraft logistics simulation program, based on the provided UML class diagram. [Avaj-launcher](https://github.com/ziadhorat/Avaj-launcher/blob/master/documentation/avaj-launcher.en.pdf) takes a [Scenario File](https://github.com/ziadhorat/Avaj-launcher/blob/master/source/scenario.txt) which lists aircraft/s and their starting coordinates along with the amount of times to run the simulation. During each simulation, every aircraft react to the Towers weather updates relative to each aircraft by changing coordinates with specified step and logging a message to the [Simulation File](https://github.com/ziadhorat/Avaj-launcher/blob/master/source/simulation.txt). If the height of an aircraft reaches 0, it lands and unregisters from the Tower, terminating it's logged messages.
-
-![](documentation/avaj_uml.jpg)
+Simple aircraft logistics simulation program, based on the provided [UML](https://github.com/ziadhorat/Avaj-launcher/blob/master/documentation/avaj_uml.jpg) class diagram. [Avaj-launcher](https://github.com/ziadhorat/Avaj-launcher/blob/master/documentation/avaj-launcher.en.pdf) takes a [Scenario File](https://github.com/ziadhorat/Avaj-launcher/blob/master/source/scenario.txt) which lists aircraft/s and their starting coordinates along with the amount of times to run the simulation. During each simulation, every aircraft react to the Towers weather updates relative to each aircraft by changing coordinates with specified step and logging a message to the [Simulation File](https://github.com/ziadhorat/Avaj-launcher/blob/master/source/simulation.txt). If the height of an aircraft reaches 0, it lands and unregisters from the Tower, terminating it's logged messages.
 
 ### Things I've learnt building [Avaj-launcher](https://github.com/ziadhorat/Avaj-launcher/blob/master/documentation/avaj-launcher.en.pdf)
 
 - The basics of Java, and Java development
-- Understanding and implementing UML class diagrams (Oberserver[Publisher-Subscriber]/Singleton/FactoryMethod)
+- Understanding and implementing [UML](https://github.com/ziadhorat/Avaj-launcher/blob/master/documentation/avaj_uml.jpg) class diagrams (Oberserver[Publisher-Subscriber]/Singleton/FactoryMethod)
 - Implementing OOP designs
 - And a whole lot more
 
