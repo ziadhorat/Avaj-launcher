@@ -27,5 +27,5 @@ jobs:
           architecture: x64
       - name: Run Test
         run: |
-          sh sh run.sh scenario.txt
+          sh run.sh scenario.txt
           cat simulation.txt
