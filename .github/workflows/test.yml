@@ -27,6 +27,5 @@ jobs:
           architecture: x64
       - name: Run Test
         run: |
-          cd source
           sh run.sh
           cat simulation.txt
