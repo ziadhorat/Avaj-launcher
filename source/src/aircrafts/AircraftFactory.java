@@ -1,7 +1,7 @@
 package src.aircrafts;
 import src.AvajException;
 
-public class AircraftFactory {
+public abstract class AircraftFactory {
 // 	From UML, AircraftFactory is a Factory Method, it makes creating new aircrafts simple
 	public static Flyable newAircraft(String type, String name, int longitude, int latitude, int height) throws AvajException {
 

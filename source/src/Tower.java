@@ -3,7 +3,7 @@ import src.aircrafts.Flyable;
 import java.util.List;
 import java.util.ArrayList;
 
-public class Tower {
+public abstract class Tower {
 //	From UML, The tower represents an Observer pattern (Publisher)
 	private List<Flyable> observers = new ArrayList<>();
 

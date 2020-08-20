@@ -8,191 +8,180 @@ Tower says: Baloon#B3(7) registered to weather tower.
 Tower says: JetPlane#J2(8) registered to weather tower.
 Tower says: Helicopter#H4(9) registered to weather tower.
 Simulation #1
-Baloon#B1(1): The FOG - Maroon 5
-Baloon#B2(2): November RAIN - Guns N' Roses
-JetPlane#J1(3): Hey, SUN came out again. - SAVING MR. BANKS
-Helicopter#H1(4): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Helicopter#H2(5): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Helicopter#H3(6): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Baloon#B3(7): SUNshine Song - Jason Mraz
-JetPlane#J2(8): Look for the FOG! - THE FOG
-Helicopter#H4(9): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Simulation #2
-Baloon#B1(1): November RAIN - Guns N' Roses
-Baloon#B2(2): The FOG - Maroon 5
-JetPlane#J1(3): Look for the FOG! - THE FOG
-Helicopter#H1(4): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-Helicopter#H2(5): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
-Helicopter#H3(6): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Baloon#B3(7): SNOW (Hey Oh) - Red Hot Chili Peppers
-JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
-Helicopter#H4(9): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
-Simulation #3
-Baloon#B1(1): The FOG - Maroon 5
+Baloon#B1(1): SUNshine Song - Jason Mraz
 Baloon#B2(2): SUNshine Song - Jason Mraz
 JetPlane#J1(3): Do you wanna build a SNOW man? - FROZEN
-Helicopter#H1(4): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Helicopter#H2(5): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+Helicopter#H1(4): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
+Helicopter#H2(5): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
 Helicopter#H3(6): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+Baloon#B3(7): November RAIN - Guns N' Roses
+JetPlane#J2(8): Hey, SUN came out again. - SAVING MR. BANKS
+Helicopter#H4(9): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+Simulation #2
+Baloon#B1(1): SNOW (Hey Oh) - Red Hot Chili Peppers
+Baloon#B2(2): The FOG - Maroon 5
+JetPlane#J1(3): When you get sad, it RAINs. - MEN IN BLACK 2
+Helicopter#H1(4): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
+Helicopter#H2(5): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
+Helicopter#H3(6): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
+Baloon#B3(7): November RAIN - Guns N' Roses
+JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
+Helicopter#H4(9): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
+Simulation #3
+Baloon#B1(1): SUNshine Song - Jason Mraz
+Baloon#B2(2): SNOW (Hey Oh) - Red Hot Chili Peppers
+JetPlane#J1(3): Do you wanna build a SNOW man? - FROZEN
+Helicopter#H1(4): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
+Helicopter#H2(5): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
+Helicopter#H3(6): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
 Baloon#B3(7): SUNshine Song - Jason Mraz
 JetPlane#J2(8): Look for the FOG! - THE FOG
-Helicopter#H4(9): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
+Helicopter#H4(9): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
 Simulation #4
-Baloon#B1(1): SUNshine Song - Jason Mraz
-Baloon#B2(2): November RAIN - Guns N' Roses
-JetPlane#J1(3): When you get sad, it RAINs. - MEN IN BLACK 2
-Helicopter#H1(4): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Helicopter#H2(5): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
+Baloon#B1(1): November RAIN - Guns N' Roses
+Baloon#B2(2): SUNshine Song - Jason Mraz
+JetPlane#J1(3): Hey, SUN came out again. - SAVING MR. BANKS
+Helicopter#H1(4): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
+Helicopter#H1(4): Landing... Coordinates: 660 33 0
+Tower says: Helicopter#H1(4) unregistered from weather tower.
 Helicopter#H3(6): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Baloon#B3(7): SNOW (Hey Oh) - Red Hot Chili Peppers
-JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
+Baloon#B3(7): The FOG - Maroon 5
+JetPlane#J2(8): When you get sad, it RAINs. - MEN IN BLACK 2
 Helicopter#H4(9): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
 Simulation #5
-Baloon#B1(1): SNOW (Hey Oh) - Red Hot Chili Peppers
-Baloon#B1(1): Landing... Coordinates: 4 3 0
-Tower says: Baloon#B1(1) unregistered from weather tower.
-JetPlane#J1(3): When you get sad, it RAINs. - MEN IN BLACK 2
-Helicopter#H1(4): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Helicopter#H2(5): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Helicopter#H3(6): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-Baloon#B3(7): SNOW (Hey Oh) - Red Hot Chili Peppers
-Baloon#B3(7): Landing... Coordinates: 106 22 0
-Tower says: Baloon#B3(7) unregistered from weather tower.
-Helicopter#H4(9): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-Simulation #6
-Baloon#B2(2): SUNshine Song - Jason Mraz
-JetPlane#J1(3): When you get sad, it RAINs. - MEN IN BLACK 2
-Helicopter#H1(4): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Helicopter#H2(5): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
+Baloon#B1(1): SUNshine Song - Jason Mraz
+Baloon#B2(2): The FOG - Maroon 5
+JetPlane#J1(3): Do you wanna build a SNOW man? - FROZEN
+Helicopter#H2(5): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
 Helicopter#H3(6): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
-JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
-Helicopter#H4(9): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-Simulation #7
-Baloon#B2(2): SUNshine Song - Jason Mraz
-JetPlane#J1(3): Look for the FOG! - THE FOG
-Helicopter#H1(4): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Helicopter#H2(5): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Helicopter#H3(6): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
+Baloon#B3(7): SNOW (Hey Oh) - Red Hot Chili Peppers
 JetPlane#J2(8): Hey, SUN came out again. - SAVING MR. BANKS
 Helicopter#H4(9): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Simulation #8
-Baloon#B2(2): November RAIN - Guns N' Roses
-JetPlane#J1(3): Look for the FOG! - THE FOG
-Helicopter#H1(4): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Helicopter#H2(5): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
-Helicopter#H3(6): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-JetPlane#J2(8): When you get sad, it RAINs. - MEN IN BLACK 2
-Helicopter#H4(9): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
-Simulation #9
-Baloon#B2(2): November RAIN - Guns N' Roses
-JetPlane#J1(3): Look for the FOG! - THE FOG
-Helicopter#H1(4): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Helicopter#H2(5): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Helicopter#H3(6): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
-Helicopter#H4(9): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
-Simulation #10
-Baloon#B2(2): November RAIN - Guns N' Roses
-JetPlane#J1(3): Hey, SUN came out again. - SAVING MR. BANKS
-Helicopter#H1(4): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-Helicopter#H1(4): Landing... Coordinates: 674 33 0
-Tower says: Helicopter#H1(4) unregistered from weather tower.
-Helicopter#H3(6): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
-Helicopter#H4(9): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Simulation #11
-Baloon#B2(2): November RAIN - Guns N' Roses
-JetPlane#J1(3): Look for the FOG! - THE FOG
-Helicopter#H2(5): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Helicopter#H3(6): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-JetPlane#J2(8): Look for the FOG! - THE FOG
-Helicopter#H4(9): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Simulation #12
-Baloon#B2(2): November RAIN - Guns N' Roses
-JetPlane#J1(3): Do you wanna build a SNOW man? - FROZEN
-Helicopter#H2(5): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Helicopter#H3(6): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-JetPlane#J2(8): When you get sad, it RAINs. - MEN IN BLACK 2
-Helicopter#H4(9): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Simulation #13
-Baloon#B2(2): SNOW (Hey Oh) - Red Hot Chili Peppers
+Simulation #6
+Baloon#B1(1): SUNshine Song - Jason Mraz
+Baloon#B2(2): SUNshine Song - Jason Mraz
 JetPlane#J1(3): Do you wanna build a SNOW man? - FROZEN
 Helicopter#H2(5): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-Helicopter#H3(6): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+Helicopter#H3(6): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
+Baloon#B3(7): The FOG - Maroon 5
 JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
-Helicopter#H4(9): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-Simulation #14
+Helicopter#H4(9): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
+Simulation #7
+Baloon#B1(1): November RAIN - Guns N' Roses
+Baloon#B2(2): November RAIN - Guns N' Roses
+JetPlane#J1(3): When you get sad, it RAINs. - MEN IN BLACK 2
+Helicopter#H2(5): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
+Helicopter#H2(5): Landing... Coordinates: 28 33 0
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Baloon#B3(7): SNOW (Hey Oh) - Red Hot Chili Peppers
+Baloon#B3(7): Landing... Coordinates: 104 22 0
+Tower says: Baloon#B3(7) unregistered from weather tower.
+Helicopter#H4(9): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+Simulation #8
+Baloon#B1(1): November RAIN - Guns N' Roses
 Baloon#B2(2): SUNshine Song - Jason Mraz
 JetPlane#J1(3): Look for the FOG! - THE FOG
-Helicopter#H2(5): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Helicopter#H3(6): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-JetPlane#J2(8): Look for the FOG! - THE FOG
+Helicopter#H3(6): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
+JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
+Helicopter#H4(9): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+Simulation #9
+Baloon#B1(1): SUNshine Song - Jason Mraz
+Baloon#B2(2): SUNshine Song - Jason Mraz
+JetPlane#J1(3): When you get sad, it RAINs. - MEN IN BLACK 2
+Helicopter#H3(6): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
+JetPlane#J2(8): When you get sad, it RAINs. - MEN IN BLACK 2
 Helicopter#H4(9): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-Simulation #15
+Simulation #10
+Baloon#B1(1): November RAIN - Guns N' Roses
 Baloon#B2(2): SUNshine Song - Jason Mraz
 JetPlane#J1(3): Do you wanna build a SNOW man? - FROZEN
-Helicopter#H2(5): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
+JetPlane#J1(3): Landing... Coordinates: 23 70 0
+Tower says: JetPlane#J1(3) unregistered from weather tower.
+JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
+Helicopter#H4(9): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
+Simulation #11
+Baloon#B1(1): SUNshine Song - Jason Mraz
+Baloon#B2(2): SUNshine Song - Jason Mraz
 Helicopter#H3(6): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-JetPlane#J2(8): Look for the FOG! - THE FOG
+JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
+Helicopter#H4(9): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+Simulation #12
+Baloon#B1(1): The FOG - Maroon 5
+Baloon#B2(2): The FOG - Maroon 5
+Helicopter#H3(6): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
+JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
+Helicopter#H4(9): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
+Simulation #13
+Baloon#B1(1): SUNshine Song - Jason Mraz
+Baloon#B2(2): The FOG - Maroon 5
+Helicopter#H3(6): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+JetPlane#J2(8): When you get sad, it RAINs. - MEN IN BLACK 2
+Helicopter#H4(9): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
+Simulation #14
+Baloon#B1(1): SUNshine Song - Jason Mraz
+Baloon#B2(2): November RAIN - Guns N' Roses
+Helicopter#H3(6): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
+JetPlane#J2(8): When you get sad, it RAINs. - MEN IN BLACK 2
+Helicopter#H4(9): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+Simulation #15
+Baloon#B1(1): The FOG - Maroon 5
+Baloon#B2(2): The FOG - Maroon 5
+Helicopter#H3(6): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
+JetPlane#J2(8): Hey, SUN came out again. - SAVING MR. BANKS
 Helicopter#H4(9): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
 Simulation #16
-Baloon#B2(2): SNOW (Hey Oh) - Red Hot Chili Peppers
-JetPlane#J1(3): When you get sad, it RAINs. - MEN IN BLACK 2
-Helicopter#H2(5): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
+Baloon#B1(1): SUNshine Song - Jason Mraz
+Baloon#B2(2): November RAIN - Guns N' Roses
 Helicopter#H3(6): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
 JetPlane#J2(8): Look for the FOG! - THE FOG
 Helicopter#H4(9): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
 Simulation #17
+Baloon#B1(1): SNOW (Hey Oh) - Red Hot Chili Peppers
+Baloon#B1(1): Landing... Coordinates: 20 3 0
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Helicopter#H3(6): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+JetPlane#J2(8): Look for the FOG! - THE FOG
+Helicopter#H4(9): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
+Simulation #18
 Baloon#B2(2): November RAIN - Guns N' Roses
-JetPlane#J1(3): Look for the FOG! - THE FOG
-Helicopter#H2(5): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+Helicopter#H3(6): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+JetPlane#J2(8): Hey, SUN came out again. - SAVING MR. BANKS
+Helicopter#H4(9): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+Simulation #19
+Baloon#B2(2): SNOW (Hey Oh) - Red Hot Chili Peppers
+Helicopter#H3(6): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+JetPlane#J2(8): Hey, SUN came out again. - SAVING MR. BANKS
+Helicopter#H4(9): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
+Simulation #20
+Baloon#B2(2): SUNshine Song - Jason Mraz
+Helicopter#H3(6): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
+JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
+Helicopter#H4(9): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
+Simulation #21
+Baloon#B2(2): SUNshine Song - Jason Mraz
+Helicopter#H3(6): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
+JetPlane#J2(8): Hey, SUN came out again. - SAVING MR. BANKS
+Helicopter#H4(9): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
+Simulation #22
+Baloon#B2(2): SNOW (Hey Oh) - Red Hot Chili Peppers
+Helicopter#H3(6): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
+Helicopter#H4(9): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+Simulation #23
+Baloon#B2(2): The FOG - Maroon 5
 Helicopter#H3(6): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
 JetPlane#J2(8): Look for the FOG! - THE FOG
 Helicopter#H4(9): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-Helicopter#H4(9): Landing... Coordinates: 291 23 0
-Tower says: Helicopter#H4(9) unregistered from weather tower.
-Simulation #18
-Baloon#B2(2): The FOG - Maroon 5
-JetPlane#J1(3): Hey, SUN came out again. - SAVING MR. BANKS
-Helicopter#H2(5): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Helicopter#H3(6): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
-JetPlane#J2(8): Hey, SUN came out again. - SAVING MR. BANKS
-Simulation #19
-Baloon#B2(2): The FOG - Maroon 5
-JetPlane#J1(3): Look for the FOG! - THE FOG
-Helicopter#H2(5): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Helicopter#H3(6): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-JetPlane#J2(8): When you get sad, it RAINs. - MEN IN BLACK 2
-Simulation #20
-Baloon#B2(2): November RAIN - Guns N' Roses
-JetPlane#J1(3): Hey, SUN came out again. - SAVING MR. BANKS
-Helicopter#H2(5): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Helicopter#H3(6): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
-JetPlane#J2(8): Hey, SUN came out again. - SAVING MR. BANKS
-Simulation #21
-Baloon#B2(2): November RAIN - Guns N' Roses
-Baloon#B2(2): Landing... Coordinates: 11 8 0
-Tower says: Baloon#B2(2) unregistered from weather tower.
-Helicopter#H2(5): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
-Helicopter#H3(6): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-JetPlane#J2(8): Look for the FOG! - THE FOG
-Simulation #22
-JetPlane#J1(3): Hey, SUN came out again. - SAVING MR. BANKS
-Helicopter#H2(5): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
-Helicopter#H3(6): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
-JetPlane#J2(8): When you get sad, it RAINs. - MEN IN BLACK 2
-Simulation #23
-JetPlane#J1(3): Do you wanna build a SNOW man? - FROZEN
-Helicopter#H2(5): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Helicopter#H3(6): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
-JetPlane#J2(8): Look for the FOG! - THE FOG
 Simulation #24
-JetPlane#J1(3): Look for the FOG! - THE FOG
-Helicopter#H2(5): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-Helicopter#H3(6): When your mind is (as) FOGgy (as this weather), all you need is the winds of wisdom! - Mehmet Murat ildan
-JetPlane#J2(8): Look for the FOG! - THE FOG
-Simulation #25
-JetPlane#J1(3): Look for the FOG! - THE FOG
-Helicopter#H2(5): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
+Baloon#B2(2): November RAIN - Guns N' Roses
 Helicopter#H3(6): I cannot endure to waste anything so precious as autumnal SUNshine by staying in the house. - Nathaniel Hawthorne
-JetPlane#J2(8): Look for the FOG! - THE FOG
+JetPlane#J2(8): When you get sad, it RAINs. - MEN IN BLACK 2
+Helicopter#H4(9): The way I see it, if you want the rainbow, you gotta put up with the RAIN. - Dolly Parton
+Simulation #25
+Baloon#B2(2): SNOW (Hey Oh) - Red Hot Chili Peppers
+Baloon#B2(2): Landing... Coordinates: 19 8 0
+Tower says: Baloon#B2(2) unregistered from weather tower.
+JetPlane#J2(8): Do you wanna build a SNOW man? - FROZEN
+Helicopter#H4(9): The SNOW doesn't give a soft white damn whom it touches. - E.E. Cummings
+Helicopter#H4(9): Landing... Coordinates: 351 23 0
+Tower says: Helicopter#H4(9) unregistered from weather tower.
