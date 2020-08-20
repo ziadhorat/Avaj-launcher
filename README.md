@@ -34,8 +34,7 @@ JetPlane J1 23 44 32    | AircraftType CallSign Longitude Latitude Height
 If the program has run successfully, you will receive the following output:
 
 ```
-We have run X simulations.
-Results are logged to simulation.txt file.
+The simulator has run X weather simulations.
 ```
 
 The results will then be accessible in [source/simulation.txt](https://github.com/ziadhorat/Avaj-launcher/blob/master/source/simulation.txt).

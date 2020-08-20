@@ -103,8 +103,7 @@ public class Simulator {
 
 			simulator.runSimulation(simulator);
 
-			System.out.println("We have run " + simulator.tower.getTotalSims() + " simulations.");
-			System.out.println("Results are logged to simulation.txt file.");
+			System.out.println("The simulator has run " + simulator.tower.getTotalSims() + " weather simulations.");
 
 		} catch (AvajException e) {
 			System.out.println(e.getMessage());
